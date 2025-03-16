@@ -1,0 +1,3 @@
+This project focuses on detecting fraudulent credit card transactions using machine learning. The dataset consists of anonymized transaction data, and a Random Forest Classifier is used to classify transactions as fraudulent or legitimate. The model is trained on features representing transaction characteristics, including transaction amount and anonymized variables.
+
+Additionally, a Streamlit web application is developed to allow users to input transaction details and receive fraud detection results in real-time. The app loads the trained model and uses it to make predictions based on user-provided transaction details. Various charts and graphs are integrated to provide insights into model performance and transaction trends.
